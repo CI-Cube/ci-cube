@@ -2,7 +2,7 @@
 
 [CICube](https://cicube.io/) provides actionable insights and metrics to help you optimize your CI workflows, Reduce downtime, cut costs, monitor and improve your CI processes.
 
-![Optimize your CI pipelines with Insightful Analyzes](https://cicube.io/assets/images/hero-new-8ebb7b941ae87b549c5c80cb22d2fe10.png)
+[![Optimize your CI pipelines with Insightful Analyzes](https://cicube.io/assets/images/hero-new-8ebb7b941ae87b549c5c80cb22d2fe10.png)](https://cicube.io/)
 
 ## 🚀 Key Features
 
